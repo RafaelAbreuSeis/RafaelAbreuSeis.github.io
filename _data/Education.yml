@@ -3,7 +3,7 @@ listing-order: 1
 icon: "/assets/img/graduation-cap.svg"
 contents:
   - title: University of Granada, PhD in Numerical Seismology
-    description: [Complex-Steps-Finite-Differences with applications to seismic problems](https://www.fundaciongarciasineriz.es/wp-content/uploads/attachments/xxi_a012015_abreu.pdf)
+    description: Complex-Steps-Finite-Differences with applications to seismic problems
     date: 2011 - 2014
   - title: University of Granada, MSc in Geophysics
     description:
