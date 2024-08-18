@@ -11,6 +11,6 @@ contents:
       ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg)
       ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg) "
   - title: Theoretical skills
-    description: "Continuum mechanics with special emphasis on micro-continuum field theories (micropolar and micromorphic) and adjoint methods in conventional and micro-continuum media"
+    description: "Continuum mechanics with special emphasis on micro-continuum field theories (micropolar and micromorphic). Seismic (full-waveform) inversion using the adjoint methods"
   - title: Seismological data analysis
     description: "Array seismological techniques using Obspy and Instaseis tools"
