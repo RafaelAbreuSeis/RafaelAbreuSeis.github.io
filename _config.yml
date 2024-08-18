@@ -8,13 +8,13 @@ job: "CNRS researcher"
 phone_number: 012-345-6789
 address: Paris, France
 email: rabreu@ipgp.fr
-linkedin_username: linkedin
-github_username: github
-instagram_username: instagram
-twitter_username: twitter
-facebook_username: facebook
-youtube_username: youtube
-blog_url: homepage-url
+# linkedin_username: linkedin
+github_username: RafaelAbreuSeis
+# instagram_username: instagram
+# twitter_username: twitter
+# facebook_username: facebook
+# youtube_username: youtube
+blog_url: RafaelAbreuSeis.github.io
 
 # If your repo name follows the format "<user-name>.github.io", then leave the below blank.
 # Otherwise, set its value as "/<repo-name>". ex) baseurl: /resume
