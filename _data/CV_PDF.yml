@@ -2,5 +2,5 @@ subject: CV in PDF
 listing-order: 2
 icon: "/assets/img/flask.svg"
 contents:
-  - title: "[Download](https://scholar.google.com/)"
-    ref: 
+  - title: 
+    ref: "[Download](https://scholar.google.com/)"
