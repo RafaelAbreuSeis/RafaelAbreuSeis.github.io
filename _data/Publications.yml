@@ -4,6 +4,9 @@ icon: "/assets/img/flask.svg"
 contents:
   - title: Journal
     ref: 
+      -"[16] Morvarid Saki, Christine Thomas, and **Rafael Abreu** (2021). "[Detection and modelling of strong topography of mid-mantle structures beneath the North Atlantic](https://academic.oup.com/gji/article/229/1/219/6430168). Geophysical Journal International, 229(1), 219-234."
+      - "[15] Jochen Kamm, Michael Becken, and **Rafael Abreu** (2020). "[Electromagnetic modelling with topography on regular grids with equivalent materials](https://academic.oup.com/gji/article/220/3/2021/5675635)". Geophysical Journal International, 220(3):2021–2038"
+      - "[14] Elena F Grekova and **Rafael Abreu** (2019). "[Isotropic linear viscoelastic reduced cosserat medium: an acoustic metamaterial and a ﬁrst step to model geomedium](https://link.springer.com/chapter/10.1007/978-3-030-13307-8_13)". In New Achievements in Continuum Mechanics and Thermodynamics, pages 165–185. Springer."
       -"[13] **Rafael Abreu**, Stephanie Durand and Christine Thomas (2018). "[The seismic moment tensor in micropolar media](https://pubs.geoscienceworld.org/ssa/bssa/article-abstract/108/3A/1160/530584/The-Asymmetric-Seismic-Moment-Tensor-in-Micropolar?redirectedFrom=fulltext)". Bulletin of the Seismological Society of America."
       -"[12] **Rafael Abreu**, Zeming Su, Jochen Kamm and Jinghuai Gao (2018). "[On the accuracy of the Complex-Step-Finite-Difference method](https://www.sciencedirect.com/science/article/pii/S0377042718301316)". Journal of Computational and Applied Mathematics. pdf
       -"[11] Stephanie Durand, **Rafael Abreu** and Christine Thomas (2018). "[SeisTomoPy: Fast Visualization, Comparison, and Calculations in Global Tomographic Models](https://pubs.geoscienceworld.org/ssa/srl/article-abstract/89/2A/658/525825/SeisTomoPy-Fast-Visualization-Comparison-and?redirectedFrom=fulltext)". Seismological Research Letters.""
