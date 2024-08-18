@@ -2,20 +2,19 @@ subject: Projects
 listing-order: 3
 icon: "/assets/img/clipboard-list.svg"
 contents:
-  - title: "ChatPPT ([https://chat.opena1.com/](https://chat.openai.com/))"
+  - title: "dEep eArth Rotational seismoLogY - EARLY AB887/1-1 Principal investigator"
     description: 
-      - Chatbot developed based on a large language model
-      - Designed Generative algorithm to generate novel human-like content
-      - "Technology Used: Rust, Typescript, Python, Ruby"
-    image: "![](https://i.ibb.co/hX2wYLB/231321.webp)"
-  - title: "AW5-cli ([https://github.com/aw5/aw5-cli](https://github.com/aws/aws-cli))"
+    - Funded by DFG Deutsche Forschungsgemeinschaft. Budged of 299,950 EUR. Duration: 2021-2024.
+    image: 
+  - title: "MISS - Minderung der Minderung der Störwirkung von Windenergieanlagen auf seismologische Stationen. Co-investigator"
     description: 
-      - Universal Command Line Interface for Amazone Web Services
-      - Developed a scheme to facilitate users’ authentication without having to remember their credentials
-      - "Technology Used: Typescript, Python, Go"
-    image: "![](https://i.ibb.co/Ttb5Qn9/21321312.webp)"
-  - title: "PiTorch ([https://pitorch.org/](https://pytorch.org/))" 
+      - Funded by European Regional Development Fund (ERDF) and Energieagentur NRW. Budged of 1M EUR. Duration: 2018-2021.
+    image:
+  - title: "Delamination, seismicity and deformation in the meridional border of the Baetic System - CGL2015-67130-C2-2-R. Co-investigator" 
     description: 
-      - Machine learning library for applications such as computer vision and natural language processing
-      - "Technology Used: Python, Cuda, Objective-C++"
-    image: "![](https://i.ibb.co/R9150c4/12421323.webp)"
+      - Funded by MINECO - Ministry of Economy and Competitiveness (Spain). Duration: 2015-2019
+    image: 
+  - title: "Development of seismic wave propagation models in highly heterogeneous media and their effects: application to volcano areas EPHESTOS - CGL2011-29499-C02-01. Co-investigator" 
+    description: 
+      - Funded by MINECO - Ministry of Economy and Competitiveness (Spain). Duration: 2011-2015.
+    image: 
