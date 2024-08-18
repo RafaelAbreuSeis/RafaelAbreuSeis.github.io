@@ -3,10 +3,13 @@ listing-order: 1
 icon: "/assets/img/graduation-cap.svg"
 contents:
   - title: University of Granada, PhD in Numerical Seismology
+    description:
     date: 2011 - 2014
   - title: University of Granada, Msc in Geophysics
+    description:
     date: 2009 - 2011
-  - title: Central University of Venezuela, Msc in mathematics
+  - title: Central University of Venezuela, Msc in Mathematics
+    description:
     date: 2006 - 2008
     - title: Central University of Venezuela, Bsc in Petroleum Engineering
     date: 1999 - 2005
