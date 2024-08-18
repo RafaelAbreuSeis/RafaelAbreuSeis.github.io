@@ -3,7 +3,7 @@ listing-order: 5
 icon: "/assets/img/screwdriver-wrench.svg"
 contents:
   - title: Numerical programming
-    description: "Programming te Fnite-Difference, Pseudo-Spectral, Finite-Element and Spectral-Element Methods as well as SPECFEM"
+    description: "Programming (from scratch) of the Fnite-Difference, Pseudo-Spectral, Finite-Element and Spectral-Element Methods"
   - title: Programming Languages
     description: "
       ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fortran/fortran-original.svg)
