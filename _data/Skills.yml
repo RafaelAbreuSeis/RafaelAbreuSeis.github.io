@@ -2,10 +2,15 @@ subject: Skills
 listing-order: 5
 icon: "/assets/img/screwdriver-wrench.svg"
 contents:
+  - title: Numerical programming
+    description: "Programming te Fnite-Difference, Pseudo-Spectral, Finite-Element and Spectral-Element Methods as well as SPECFEM"
   - title: Programming Languages
     description: "
       ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fortran/fortran-original.svg)
       ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg)
       ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg)
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg)
-    "
+      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg) "
+  - title: Theoretical skills
+    description: "Continuum mechanics with special emphasis on micro-continuum field theories (micropolar and micromorphic) and adjoint methods in conventional and micro-continuum media"
+  - title: Seismological data analysis
+    description: "Array seismological techniques using Obspy and Instaseis tools"
