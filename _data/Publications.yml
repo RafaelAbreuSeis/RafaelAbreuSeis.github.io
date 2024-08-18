@@ -4,4 +4,4 @@ icon: "/assets/img/flask.svg"
 contents:
   - title: Journal
     ref: 
-    - "[1] **M. Yankovich**, L. Hernández, M. Roveri, “[A symmetric encryption method with biometric authorization for constrained environments](https://scholar.google.com/),” *Cryptography*, vol. x, no. x, pp. xxx–xxx, 202x."
+    #- "[1] Carlos Reinoza, Cecilio Morales, Victor Rocabado, Kenny García, Christian Sanchez, Javier Sanchez, **Rafael Abreu** and Michael Schmitz (2011). "[Espesores de sedimentos a partir de la integración de datos geofísicos en Barquisimeto y Cabudare, Venezuela](http://ve.scielo.org/scielo.php?script=sci_arttext&pid=S0798-40652011000200007&lng=es&nrm=iso&tlng=en)", Revista de la Facultad de Ingeniería de la Universidad Central de Venezuela. 26(2):67-76."
