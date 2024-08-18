@@ -2,12 +2,21 @@ subject: Experience
 listing-order: 2
 icon: "/assets/img/briefcase.svg"
 contents:
-  - title: Institut de Physique du Globe de Paris
+  - title: Institut de Physique du Globe de Paris - IPGP, Paris, France
     role: CNRS chargé de la recherche
     date: 2022 - Ongoing
-  - title: University of Muenster
-    role: Postdoc
+  - title: Institute for geophysics at the University of Muenster, Muenster, Germany
+    role: Research Assistant
     date: 2014 - 2022
-  - title:  Venezuelan Foundation for Seismological Research (FUNVISIS)
+  - title: Andalusian Institute of Geophysics - IAG, Granada, Spain
+    role: Master student, PhD student, Research Assistant and Adjunct researcher
+    date: 2009 - today
+  - title: Princeton University, Princeton, NJ USA
+    role: Visiting student working with Prof. Jeroen Tromp
+    date: 11 months total between 2011 and 2012
+  - title: Institut de Physique du Globe de Paris - IPGP, Paris, France
+    role: Visiting research scientist working with Prof. Jean-Pierre Vilotte
+    date: 2 months in 2008
+  - title:  Venezuelan Foundation for Seismological Research (FUNVISIS) - Caracas, Venezuela
     role: Geophysicist    
     date: 2007 - 2009
