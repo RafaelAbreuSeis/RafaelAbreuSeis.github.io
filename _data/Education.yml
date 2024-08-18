@@ -3,7 +3,7 @@ listing-order: 1
 icon: "/assets/img/graduation-cap.svg"
 contents:
   - title: University of Granada, PhD in Numerical Seismology
-    description:
+    description: Complex-Steps-Finite-Differences with applications to seismic problems
     date: 2011 - 2014
   - title: University of Granada, MSc in Geophysics
     description:
