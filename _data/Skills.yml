@@ -3,7 +3,7 @@ listing-order: 5
 icon: "/assets/img/screwdriver-wrench.svg"
 contents:
   - title: Numerical programming
-    description: "Programming (from scratch) the (1D/2D/3D) Finite-Difference, Pseudo-Spectral, Finite-Element and Spectral-Element Methods"
+    description: "Programming (from scratch) the (1D/2D/3D) Finite-Difference, Pseudo-Spectral, Finite-Element and Spectral-Element Methods."
   - title: Programming Languages
     description: "
       ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fortran/fortran-original.svg)
@@ -11,6 +11,6 @@ contents:
       ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg)
       ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg) "
   - title: Theoretical skills
-    description: "Continuum mechanics with special emphasis on micro-continuum field theories (micropolar and micromorphic). Seismic (full-waveform) inversion using the adjoint methods"
+    description: "Continuum mechanics with special emphasis on micro-continuum field theories (micropolar and micromorphic). Seismic (full-waveform) inversion using the adjoint method."
   - title: Seismological data analysis
-    description: "Array seismological techniques using Obspy and Instaseis tools"
+    description: "Array seismological techniques using Obspy and Instaseis tools."
