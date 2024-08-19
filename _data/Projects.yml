@@ -2,11 +2,17 @@ subject: Projects
 listing-order: 4
 icon: "/assets/img/clipboard-list.svg"
 contents:
+  - title: "Seismic wave propagation using Radial Basis Functions. Principal investigator (1 PhD student) (2023-2026)"
+    description:
+    - Funded by the Institut de Physique du Globe de Paris - IPGP, Paris.
+  - title: "DB-MISS - Mitigation of seismic noise recorded in seismological stations II Principal investigator (1 Postdoc) (2021-2024)." 
+    description:
+    - Funded by European Regional Development Fund (ERDF) and Energieagentur NRW. Budged of 1.5M EUR.
   - title: "dEep eArth Rotational seismoLogY - EARLY AB887/1-1 Principal investigator (2021-2024)"
     description: 
     - Funded by DFG Deutsche Forschungsgemeinschaft. Budged of 299,950 EUR.
     image: 
-  - title: "MISS - Minderung der Minderung der Störwirkung von Windenergieanlagen auf seismologische Stationen. Co-investigator (2018-2021)"
+  - title: "MISS - Mitigation of seismic noise recorded in seismological stations. Co-investigator (2018-2021)"
     description: 
       - Funded by European Regional Development Fund (ERDF) and Energieagentur NRW. Budged of 1M EUR.
     image:
